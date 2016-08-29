@@ -1,0 +1,2 @@
+# Shield
+Shield is a python script which can change your MAC address very quickly, by setting down/up the network interface automatically. The real advantage of using Shield is the MAC address prefix (the three hexadecimal number at the beginning of the MAC address) use the macchanger database to create a MAC address just like it was made by a real producer, to make your fake MAC address as real as possible.
