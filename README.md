@@ -12,10 +12,10 @@ change INTERFACE    Change INTERFACE mac address.
 reset  INTERFACE    Reset INTERFACE mac address.
 
 ## Examples:
-```python
-// Assuming wlan0 as network interface
-shield.py change wlan0 // Change wlan0 mac address.
-shield.py reset wlan0  // Reset wlan0 mac address.
+```bash
+# Assuming wlan0 as network interface
+shield.py change wlan0 # Change wlan0 mac address.
+shield.py reset wlan0  # Reset wlan0 mac address.
 ```
 
 ## See also:
