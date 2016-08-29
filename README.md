@@ -8,7 +8,7 @@ You just have to download the files ```mac_producer.list``` and ```shield.py```.
 shield.py [change | reset] INTERFACE
 
 ## Description:
-change INTERFACE    Change INTERFACE mac address.
+change INTERFACE    Change INTERFACE mac address.<br/>
 reset  INTERFACE    Reset INTERFACE mac address.
 
 ## Examples:
