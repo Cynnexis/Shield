@@ -27,4 +27,4 @@ ifconfig (8)
 Valentin Berger <[valentin.berger38@gmail.com](mailto:valentin.berger38@gmail.com)>
 
 ### Note:
-As a french developper who try to learn english, I think there is a LOT of mistake in those texts (also in the source code). So, you're welcome to warn me about it if you find one of them. Just let me know ;)
+As a french student who try to learn english, I think there is a LOT of mistake in those texts (also in the source code). So, you're welcome to warn me about it if you find one of them. Just let me know ;)
